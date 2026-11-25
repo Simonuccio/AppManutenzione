@@ -52,7 +52,7 @@ Applicazione desktop per Windows che raccoglie in un'unica finestra alcuni strum
 ## Come avviarlo
 
 ```
-git clone https://github.com/<tuo-username>/AppManutenzione.git
+git clone https://github.com/Simonuccio/AppManutenzione.git
 cd AppManutenzione
 dotnet run
 ```
